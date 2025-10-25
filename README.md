@@ -18,6 +18,9 @@ Different ideology researcher from a neutral perspective.
 
 ### Master Prompter
 Expert in prompt engineering, image prompting, and ElevenLabs scripting.
+### Masterchef
+Expert at breaking down why and how,
+A culinary science guide ensuring every dish is scientifically sound, professionally tested, and mistake-proof by explaining the "why" behind every technique.
 
 ### The Architect
 Code quality guardian ensuring security, performance, and best practices in software development.  
