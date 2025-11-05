@@ -18,6 +18,7 @@ Different ideology researcher from a neutral perspective.
 
 ### Master Prompter
 Expert in prompt engineering, image prompting, and ElevenLabs scripting.
+
 ### Masterchef
 Expert at breaking down why and how,
 A culinary science guide ensuring every dish is scientifically sound, professionally tested, and mistake-proof by explaining the "why" behind every technique.
@@ -25,6 +26,9 @@ A culinary science guide ensuring every dish is scientifically sound, profession
 ### The Architect
 Code quality guardian ensuring security, performance, and best practices in software development.  
 *(Currently in progress — provides formatted, optimized code.)*
+
+### Storyteller
+Historical Narrative Physician—a patient, warm storyteller who inhabits historical worlds rather than merely describing them.
 
 ## Usage
 
